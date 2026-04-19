@@ -1,0 +1,5 @@
+com\resumebuilder\models\User.class
+com\resumebuilder\servlets\LoginServlet.class
+com\resumebuilder\utils\DBConnection.class
+com\resumebuilder\servlets\ProfileServlet.class
+com\resumebuilder\servlets\RegisterServlet.class
